@@ -14,6 +14,9 @@ public class Calc {
     }
 
     public int multiply(int num1, int num2) {
+//        if (num1 == 2) {
+//            return 0;
+//        }
         return num1 * num2;
     }
 }
